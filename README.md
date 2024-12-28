@@ -1,5 +1,6 @@
 # Sign-Language-To-Text-and-Speech-Conversion
-![0_tStVWACzIp_Jf00_](https://github.com/user-attachments/assets/6bbfc190-1b3e-4a8e-8df7-48719951d683)
+![The-26-letters-and-10-digits-of-American-Sign-Language-ASL](https://github.com/user-attachments/assets/912c8aa4-309b-4289-8cb0-dfb920d242ad)
+
 ## Overview
 This project is designed to convert sign language gestures into text and speech. It utilizes machine learning models to recognize sign language from hand gestures, translate it into text, and then convert the text to speech. This solution aims to bridge the communication gap for individuals with hearing impairments by enabling real-time sign language translation.
 
